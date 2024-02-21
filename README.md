@@ -28,6 +28,6 @@ Future projects will be added to explore new strategies and extend the repositor
 
 Each project is documented to detail its objectives, methodology, results, and potential applications. Readers are encouraged to explore these projects to gain insights into algorithmic trading and quantitative finance. Contributions, feedback, and discussions are welcome to enhance the learning experience and improve the project outcomes.
 
-For more information or to discuss these projects further, feel free to reach out through the issues section on GitHub or directly via [LinkedIn/GitHub/Other contact methods].
+For more information or to discuss these projects further, feel free to reach out through the issues section on GitHub or directly via [www.linkedin.com/in/hichem-heddar].
 
 Thank you for exploring this collection of algorithmic trading projects. Your engagement and feedback are highly valued.
